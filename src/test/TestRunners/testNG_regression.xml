@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Playwright Test Suite" verbose="4">
+
+    <test name="Home Page Test">
+
+        <classes>
+            <class name="VerificationTests.HomePageTest" />
+
+        </classes>
+    </test>
+
+</suite>
